@@ -37,7 +37,7 @@ python -m src.main --help
 
 - `stock-token-index` — the registry this repo builds on
 - `stock-analyst-agent` — the agent that consumes this data
-- `rh-stock-token-sdk` — SDK for Robinhood Chain stock tokens
+- `rh-stock-token-sdk` — SDK for BNB Chain stock tokens
 
 ## License
 
